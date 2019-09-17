@@ -23,7 +23,7 @@ Tensorflow implementation of [**Disentangling Latent Space for VAE by Label Rele
     - [FaceScrub](http://vintage.winklerbros.net/facescrub.html)
         - Images should be placed in ./Datas/facescrub_aligned/
 - **pre-trained model**
-    - Download the trained model from           and unzip the files to ***./models/***
+    - Download the trained model from [Baidu Cloud(dfna)](https://pan.baidu.com/s/1mVZR4ZR6Ar4RLEwJkh0xWw), and unzip the files to ***./models/***
 ## Quick Start
 
 Exemplar commands are listed here for a quick start.
