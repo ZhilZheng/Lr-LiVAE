@@ -29,6 +29,7 @@ Tensorflow implementation of [**Disentangling Latent Space for VAE by Label Rele
 Exemplar commands are listed here for a quick start.
 
 ### Training
+- To train on facescrub dataset with size of 64 X 64
 
     ```console
     python Lr-LiVAE.py --mode training
