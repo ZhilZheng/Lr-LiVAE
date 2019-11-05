@@ -2,17 +2,17 @@
 Tensorflow implementation of [**Disentangling Latent Space for VAE by Label Relevant/Irrelevant Dimensions**](https://arxiv.org/abs/1812.09502v4).
 
 **The network architecture**
-<p align="center"> <img src="./results/architecture.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/ZhilZheng/Lr-LiVAE/blob/master/results/architecture.png" width="95%"><br><center></center></p>
 
 ## Exemplar Results
 - Toy experiment
-<p align="center"> <img src="./results/toy.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/ZhilZheng/Lr-LiVAE/blob/master/results/toy.png" width="95%"><br><center></center></p>
 
 - Generated images
-<p align="center"> <img src="./results/generated_images.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/ZhilZheng/Lr-LiVAE/blob/master/results/generated_images.png" width="95%"><br><center></center></p>
 
 - Face synthesis
-<p align="center"> <img src="./results/synthesis.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/ZhilZheng/Lr-LiVAE/blob/master/results/synthesis.png" width="95%"><br><center></center></p>
 
 ## Preparation
 
